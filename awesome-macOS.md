@@ -1,18 +1,10 @@
-# Awesome macOS (by Fabio Baser)
+# Awesome macOS (by Fabio Baser) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-
-
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
-
-This repo is a collection of **AWESOME** Mac applications and tools for developers, designers and everything interested in finding tools that feel *sleek, round*. Feel free to **star** and **fork**.
-
-
+This repo is a collection of **AWESOME** Mac applications and tools for developers, designers and everyone interested in finding software solutions that feel *sleek, round*. Feel free to **star** and **fork**.
 
 **Note:** This is an absolute list. It only contains the awesome tools i choose to use. 
 
 There is only one tool for any purpose 😊
-
-
 
 * [Atom](https://atom.io) - Modular and Themeable Text Editor with CLI and IDE-Feeling
 
